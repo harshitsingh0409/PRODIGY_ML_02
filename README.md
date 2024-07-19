@@ -19,6 +19,10 @@ Revealing hidden patterns and grouping similar customers.
 
 Potential of customer segmentation in targeted marketing.
 
+## Dataset
+
+Dataset link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 ## Results
 The clustering algorithm effectively segments customers, providing valuable insights for personalized marketing strategies. Visualizations illustrate the distinct customer groups identified.
 
