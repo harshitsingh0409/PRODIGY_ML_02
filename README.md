@@ -9,9 +9,11 @@ Scikit-Learn for implementing K-Means clustering
 Matplotlib and Seaborn for cluster visualization
 
 ## Key Insights
-Choosing the right number of clusters using the elbow method
-Revealing hidden patterns and grouping similar customers
-Potential of customer segmentation in targeted marketing
+Choosing the right number of clusters using the elbow method.
+
+Revealing hidden patterns and grouping similar customers.
+
+Potential of customer segmentation in targeted marketing.
 
 ## Results
 The clustering algorithm effectively segments customers, providing valuable insights for personalized marketing strategies. Visualizations illustrate the distinct customer groups identified.
