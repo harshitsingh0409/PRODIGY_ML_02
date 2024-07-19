@@ -3,9 +3,13 @@
 This project applies K-Means Clustering to segment customers of a retail store based on their spending scores. The goal is to identify distinct customer groups to enhance marketing strategies.
 
 ## Tools & Technologies
+
 Python
+
 Pandas and NumPy for data preprocessing
+
 Scikit-Learn for implementing K-Means clustering
+
 Matplotlib and Seaborn for cluster visualization
 
 ## Key Insights
